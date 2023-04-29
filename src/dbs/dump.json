@@ -1,16 +1,5 @@
 [
   {
-    "id": "7b359d6d-6bd2-4d37-87bc-a89ed735ee39",
-    "task": "Hello from backend zup",
-    "status": true
-  },
-  {
-    "id": "29744222-6f64-4e3c-8471-4b5cedc52d64",
-    "task": "Test create todo",
-    "status": false,
-    "date": "2023-05-08"
-  },
-  {
     "id": "b40cc8be-f253-40ed-be70-8bb62243f8e1",
     "task": "Praesent !!",
     "status": true,
